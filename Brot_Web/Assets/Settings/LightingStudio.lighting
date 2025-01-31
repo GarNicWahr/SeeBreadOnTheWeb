@@ -18,8 +18,8 @@ LightingSettings:
   m_UsingShadowmask: 1
   m_BakeBackend: 2
   m_LightmapMaxSize: 2048
-  m_BakeResolution: 240
-  m_Padding: 4
+  m_BakeResolution: 80
+  m_Padding: 20
   m_LightmapCompression: 3
   m_AO: 1
   m_AOMaxDistance: 1

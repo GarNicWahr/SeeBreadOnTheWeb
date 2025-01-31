@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Brot_Meta
-    second: {fileID: 2100000, guid: 38e7caadbca0ebf47bfe14f4609c5396, type: 2}
+    second: {fileID: 2100000, guid: de118db02c994ee44931fa858370d2e5, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
